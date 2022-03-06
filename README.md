@@ -20,9 +20,3 @@ w razie problemów podczas instalacji związanych z managerem paczek:
 sudo apt install python3-pip
 python -m pip install --upgrade pip
 ````
-
-
-### Kontakt:
-pawelchwsb@gmail.com
-
-zajecia 05-06.03
