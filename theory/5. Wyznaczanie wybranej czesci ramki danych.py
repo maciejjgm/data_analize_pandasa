@@ -104,5 +104,5 @@ print(df_names_index.loc['pawel':'maria'])
 
 # zakres indexu od wyznaczonych wartości (nazw indexu) dla danej kolumny
 # print(df_names_index.loc['pawel':'maria', 'kolumna_nazwisko'])
-print(df_names_index.loc['pawel':'maria'][['kolumna_nazwisko']])
+# print(df_names_index.loc['pawel':'maria'][['kolumna_nazwisko']])
 
